@@ -61,7 +61,7 @@ En mi proyecto final, desarrollaré un dashboard de control en Power BI para ana
 ## 🏆 Logros
 
 - Obtuve una calificación perfecta de 10/10 en mi proyecto final de Excel.
-- Clasificado dentro del "Top 10 Performance" en el [curso de Excel](https://github.com/IDSancho/CoderHouse-Data-Analytics/edit/main/README.md#-curso-1-procesamiento-de-datos-en-excel). 
+- Clasificado dentro del "Top 10 Performance" en el curso de Excel. 
 
 ---
 
