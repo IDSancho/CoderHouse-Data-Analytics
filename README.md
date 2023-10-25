@@ -17,7 +17,7 @@ Después de completar este curso, adquirí habilidades que me permiten:
 - Utilizar tablas dinámicas para agilizar el procesamiento de datos.
 
 ### **Proyecto Final - Creando Valor Sobre Nuestros Datos**
-En mi proyecto final, trabajé con un dataset de mi elección, formulé preguntas relevantes y procesé los datos con fórmulas avanzadas, estructuras y buenas prácticas para obtener información relevante. La presentación se encuentra en [este enlace](link_al_proyecto_de_Excel).
+En mi proyecto final, trabajé con un dataset de mi elección, formulé preguntas relevantes y procesé los datos con fórmulas avanzadas, estructuras y buenas prácticas para obtener información relevante. La presentación se encuentra en [este enlace](https://github.com/IDSancho/CoderHouse-Data-Analytics/tree/main/Procesamiento%20de%20datos%20en%20Excel).
 
 ## 📈 Curso 2: Tableau
 
@@ -54,7 +54,9 @@ Después de completar este curso, podré:
 - Generar conclusiones efectivas con datos.
 
 ### **Proyecto Final**
-En mi proyecto final, desarrollaré un dashboard de control en Power BI para analizar indicadores estratégicos y operativos de una organización. Implementaré una base de datos y diseñaré un modelo de datos relacional según la temática que elija. Este proyecto lo compartiré pronto.
+
+### **Proyecto Final**
+En mi proyecto final, desarrollaré un dashboard de control en Power BI para analizar indicadores estratégicos y operativos de una organización. Implementaré una base de datos y diseñaré un modelo de datos relacional según la temática que elija. Este proyecto completo lo compartiré pronto, mientras tanto en [este link](https://github.com/IDSancho/CoderHouse-Data-Analytics/tree/main/Data%20Analytics) estan los avances del mismo.
 
 ---
 
@@ -76,6 +78,7 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/id-sancho) o [GitHu
 --- 
 
 **¡Gracias por visitar mi repositorio! Espero que encuentres información útil y que disfrutes explorando mi viaje de aprendizaje en el mundo del análisis de datos. Esta carrera ha sido una experiencia de aprendizaje invaluable, y estoy emocionado por aplicar lo que aprendí en futuros proyectos y desafíos.**
+
 
 
 
