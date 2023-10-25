@@ -63,20 +63,19 @@ En mi proyecto final, desarrollaré un dashboard de control en Power BI para ana
 - Obtuve una calificación perfecta de 10/10 en mi proyecto final de Excel.
 - Clasificado dentro del "Top 10 Performance" en el curso de Excel. 
 
----
-
 ## 📆 Fechas de Realización
 
 - Curso de Excel: 8 de agosto - 18 de octubre de 2023
 - Curso de Tableau: 14 de noviembre - 21 de diciembre de 2023
 - Curso de Data Analytics: 25 de septiembre - 20 de diciembre de 2023
 
---- 
-
-¡Gracias por visitar mi repositorio! Espero que encuentres información útil y que disfrutes explorando mi viaje de aprendizaje en el mundo del análisis de datos. Esta carrera ha sido una experiencia de aprendizaje invaluable, y estoy emocionado por aplicar lo que aprendí en futuros proyectos y desafíos.
----
-
 ## 📫 Contacto
 Si tienes alguna pregunta o necesitas más información, ¡no dudes en ponerte en contacto conmigo!
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/id-sancho) o [GitHub](https://github.com/IDSancho).
+
+--- 
+
+**¡Gracias por visitar mi repositorio! Espero que encuentres información útil y que disfrutes explorando mi viaje de aprendizaje en el mundo del análisis de datos. Esta carrera ha sido una experiencia de aprendizaje invaluable, y estoy emocionado por aplicar lo que aprendí en futuros proyectos y desafíos.**
+
+
 
